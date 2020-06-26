@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Create a weather application using react-native. This app shows the weather based on the user's location with the brief description. ",
+    "githubUrl": "https://github.com/pachopa/weather-app"
   }
 }
